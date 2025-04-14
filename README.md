@@ -7,7 +7,7 @@ Project 04: Breast Cancer Dataset Analysis
 - Python Libraries: pandas, numpy, sklearn
 
 Project 05: Cardiology Dataset Analysis
-- Data Parsing, Structuring & Transformation (.xlsx file)
+- Data Parsing, Structuring & Transformation
 - Decsion Tree Classifier Model
 - Comfusion Matric Computation (Model Evaluation)
 - Python Libraries: pandas, sklearn, openpyxl, pydotplus, seaborn, matplotlib
