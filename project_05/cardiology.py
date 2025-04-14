@@ -30,7 +30,7 @@ def pre_processing():
     n_part.rename(columns={'#colored vessels': 'Number of colored vessels'}, inplace=True)
     n_part.rename(columns={i: i.capitalize() for i in n_list if i[0].islower()}, inplace=True)
     # decision trees do not require normalisation 
-    # so numercal variables are left as is (not normalised)
+    # so numerical variables are left as is (not normalised)
     df['class'] = [i.capitalize() for i in df['class']]  # capitalising dependent variable values
     frames = [ohe_part, le_part, n_part, df['class']]
     final = pd.concat(frames, axis=1, sort=False)
