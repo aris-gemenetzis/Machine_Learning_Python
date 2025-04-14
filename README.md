@@ -5,3 +5,9 @@ Project 04: Breast Cancer Dataset Analysis
 - Logistic Regression Model
 - Accuracy Score Evaluation
 - Python Libraries: pandas, numpy, sklearn
+
+Project 05: Cardiology Dataset Analysis
+- Data Structuring, Parsing & Transform
+- Decsion Tree Classifier Model
+- Comfusion Matric Computation (Model Evaluation)
+- Python Libraries: pandas, sklearn, openpyxl, pydotplus, seaborn, matplotlib
