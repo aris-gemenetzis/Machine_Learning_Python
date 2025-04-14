@@ -10,4 +10,4 @@ Project 05: Cardiology Dataset Analysis
 - Data Parsing, Structuring & Transformation (.xlsx Dataset)
 - Decsion Tree Classifier Model
 - Comfusion Matric Computation (Model Evaluation)
-- Python Libraries: pandas, sklearn, openpyxl, pydotplus, seaborn, matplotlib
+- Python Libraries: pandas, sklearn, openpyxl, seaborn, pydotplus, matplotlib
