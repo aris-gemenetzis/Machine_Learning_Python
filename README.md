@@ -8,6 +8,6 @@ Project 04: Breast Cancer Dataset Analysis
 
 Project 05: Cardiology Dataset Analysis
 - Data Parsing, Structuring & Transformation (.xlsx Dataset)
-- Decsion Tree Classifier Model
-- Comfusion Matrix Computation (Model Evaluation)
+- Decision Tree Classifier Model
+- Confusion Matrix Computation (Model Evaluation)
 - Python Libraries: pandas, sklearn, openpyxl, seaborn, pydotplus, matplotlib
